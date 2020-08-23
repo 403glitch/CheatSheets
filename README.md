@@ -2,7 +2,7 @@
 These are Cheatsheets which can help a Script-Kiddie with understanding different tools and techniques
 
 
-#######################################################################################################################
+####################################################################################
 
 - https://ceso.github.io/posts/2020/04/hacking/oscp-cheatsheet/   -  OSCP CheatSheet
 - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/   - SANS CheatSheet
@@ -26,3 +26,6 @@ These are Cheatsheets which can help a Script-Kiddie with understanding differen
 - https://github.com/frizb/Hashcat-Cheatsheet  → Hashcat Cheatsheet
 - https://github.com/security-cheatsheet/wireshark-cheatsheet  → Wireshark Cheatsheet
 - https://cheatsheetseries.owasp.org/index.html  → OWASP Cheatsheet
+
+
+Follow me on Twitter --> https://twitter.com/403glitc_h
